@@ -1,0 +1,8 @@
+Package: com.nyxian.camera
+Name: Camera for Nyxian
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Description: Simple camera app for Nyxian (photo, flip front/back, save to Photos).
+Maintainer: Ganbi
+Author: Ganbi
+Section: Applications

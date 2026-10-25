@@ -1,0 +1,4 @@
+#!/bin/sh
+# register the app so its icon appears; harmless if uicache isn't on PATH
+uicache -p /Applications/NyxCamera.app >/dev/null 2>&1 || true
+exit 0
